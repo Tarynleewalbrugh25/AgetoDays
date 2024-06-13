@@ -5,6 +5,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background-color: aliceblue;
+}
 .container {
+    margin-top: 15%;
     display: grid;
 }
+.diagonal-gradient {
+    background-color: cadetblue;
+  }
+  
